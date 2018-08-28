@@ -1,2 +1,4 @@
 # hello-world
-Anne says hello to the world.
+Hello from Anne.
+
+Anne is a fruit fly biologist and is learning to code!
